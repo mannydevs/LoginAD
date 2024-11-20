@@ -1,0 +1,31 @@
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.exe
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.pdb
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.xml
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.Resources.resources
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.vbproj.GenerateResource.Cache
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.exe
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.xml
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.pdb
+C:\Users\franciscom\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.Login.resources
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.exe
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.pdb
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.xml
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.vbprojAssemblyReference.cache
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.Login.resources
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.Resources.resources
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.vbproj.GenerateResource.cache
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.vbproj.CoreCompileInputs.cache
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.exe
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.xml
+M:\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.pdb
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.exe
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.pdb
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\bin\Debug\LoginAD.xml
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.vbproj.AssemblyReference.cache
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.Login.resources
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.Resources.resources
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.vbproj.GenerateResource.cache
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.vbproj.CoreCompileInputs.cache
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.exe
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.xml
+\\NA.corning.com\RYR6-UD$\UD2\franciscom\My Documents\Documents\Visual Studio 2012\Projects\LoginAD\LoginAD\obj\Debug\LoginAD.pdb
